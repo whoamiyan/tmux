@@ -1,2 +1,2 @@
 # tmux
-my tmux cfg
+tmux cfg
